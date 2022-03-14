@@ -1,0 +1,117 @@
+Export log for : guitar(350 ¿Ç).Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle P:SX67Y67D431
+AddingPadStyle EF39X43TOP1
+AddingPadStyle EF28X49TOP1
+AddingPadStyle EF49X28TOP1
+AddingPadStyle EF17X71TOP1
+AddingPadStyle EF71X17TOP1
+AddingPadStyle P:EX79Y39D281
+AddingPadStyle P:EX28Y28D281
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle EF39X43TOP2
+AddingPadStyle P:EX55Y55D361
+AddingPadStyle P:EX126Y126D911
+AddingPadStyle EF118X118TOP1
+AddingPadStyle EF59X98TOP1
+AddingPadStyle P:EX39Y39D391
+AddingPadStyle P:EX157Y98D511
+AddingPadStyle EF59X12TOP1
+AddingPadStyle EF87X43TOP1
+AddingPadStyle EF87X43TOP2
+AddingPadStyle EF87X138TOP1
+AddingPadStyle EF47X55TOP1
+AddingPadStyle EF59X59TOP1
+AddingPadStyle EF59X59TOP2
+AddingPadStyle EF59X59TOP3
+AddingPadStyle EF87X24TOP1
+AddingPadStyle P:SX62Y62D401
+AddingPadStyle P:EX62Y62D401
+AddingPadStyle P:EX31Y31D201
+AddingPadStyle P:EX59Y59D361
+AddingPadStyle EF55X51TOP1
+AddingPadStyle EF51X55TOP1
+AddingPadStyle EF55X55TOP1
+AddingPadStyle EF43X47TOP1
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H45W6
+Adding PatternDef HDR-TH_1P-P2.54-V-M_1
+Adding PatternDef HDR-TH_1P-P2.54-V-M_2
+Adding PatternDef HDR-TH_1P-P2.54-V-M_3
+Adding PatternDef R0603_1
+Adding PatternDef SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR_1
+Adding PatternDef MICRO-USB-SMD_U-F-M5DD-Y-1_1
+Adding PatternDef HC-49US_L11.5-W4.5-P4.88_1
+Adding PatternDef 0603_1
+Adding PatternDef USB-A-TH_USB-A-F-90_1
+Adding PatternDef EC11SMT_1
+Adding PatternDef EC11SMT_2
+Adding PatternDef MTS-102/MTS-103/MTS-123_1
+Adding PatternDef C0603_1
+Adding PatternDef LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL_1
+Adding PatternDef SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR_1
+Adding PatternDef SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR_1
+Adding PatternDef SOD-123_L2.8-W1.8-LS3.7-RD_1
+Adding PatternDef KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0_1
+Adding PatternDef SOP-16_150MIL_1
+Adding PatternDef HDR-TH_5P-P2.54-V_1
+Adding PatternDef OSC-TH_BD2.0-P0.70-D0.3_1
+Adding PatternDef HEADER6_1
+Adding PatternDef LED0805-R-RD_1
+Adding PatternDef MSS23D19_1
+Adding PatternDef CAP-SMD_L3.2-W1.6-R-RD_1
+Adding PatternDef C0603_2
+Adding CompDef HDR-TH_1P-P2.54-V-M_1
+Adding CompDef HDR-TH_1P-P2.54-V-M_2
+Adding CompDef HDR-TH_1P-P2.54-V-M_3
+Adding CompDef R0603_1
+Adding CompDef SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR_1
+Adding CompDef MICRO-USB-SMD_U-F-M5DD-Y-1_1
+Adding CompDef HC-49US_L11.5-W4.5-P4.88_1
+Adding CompDef 0603_1
+Adding CompDef USB-A-TH_USB-A-F-90_1
+Adding CompDef EC11SMT_1
+Adding CompDef EC11SMT_2
+Adding CompDef MTS-102/MTS-103/MTS-123_1
+Adding CompDef C0603_1
+Adding CompDef LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL_1
+Adding CompDef SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR_1
+Adding CompDef SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR_1
+Adding CompDef SOD-123_L2.8-W1.8-LS3.7-RD_1
+Adding CompDef KEY-SMD_4P-L6.0-W6.0-P4.50-LS9.0_1
+Adding CompDef SOP-16_150MIL_1
+Adding CompDef HDR-TH_5P-P2.54-V_1
+Adding CompDef OSC-TH_BD2.0-P0.70-D0.3_1
+Adding CompDef HEADER6_1
+Adding CompDef LED0805-R-RD_1
+Adding CompDef MSS23D19_1
+Adding CompDef CAP-SMD_L3.2-W1.6-R-RD_1
+Adding CompDef C0603_2
+ 
+EndLog
